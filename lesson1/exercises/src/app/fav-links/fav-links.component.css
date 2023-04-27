@@ -1,3 +1,11 @@
+main{
+    background-color: black;
+}
+h6{
+    text-align: center;
+    align-items: center;
+    color: rgba(128, 0, 128, 0.541);
+}
 ul{
     list-style: none;
     text-align: center;
@@ -5,7 +13,9 @@ ul{
 }
 
 a{
+    text-align:center;
     color:darkolivegreen;
+    font-weight: 450;
 }
 a:hover{
     color: olivedrab;
