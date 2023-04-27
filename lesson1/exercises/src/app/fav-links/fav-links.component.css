@@ -1,0 +1,12 @@
+ul{
+    list-style: none;
+    text-align: center;
+    
+}
+
+a{
+    color:darkolivegreen;
+}
+a:hover{
+    color: olivedrab;
+}
